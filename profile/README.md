@@ -12,8 +12,8 @@ Leveraging a combination of web development tools, design frameworks, and AI-pow
 
 | **Application** | **Category** | **Technologies**                      |
 | --------------- | ------------ | ------------------------------------- |
-| **Web**         | Basics       | HTML, CSS, JavaScript                 |
-|                 | Frameworks   | TypeScript, React, Tailwind CSS, SCSS |
+| **Web**         | Basics       | HTML, CSS, JavaScript, Typescript     |
+|                 | Frameworks   | React, Tailwind CSS, SCSS             |
 | **API**         | Frameworks   | Next.js, Express.js                   |
 |                 | Databases    | PostgreSQL, Redis                     |
 | **Mobile**      | Frameworks   | ReactNative, Expo                     |
