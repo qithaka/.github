@@ -1,6 +1,6 @@
 # Full-stack Developer
 
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/amgithaka)](https://twitter.com/qithaka)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/qithaka)](https://twitter.com/qithaka)
 
 ## About Me
 
@@ -10,15 +10,15 @@ I'm a passionate, self-taught full-stack developer creating scalable web/mobile/
 
 Leveraging a combination of web development tools, design frameworks, and AI-powered resources, I build robust applications from the ground up. Here's an overview:
 
-| **Application** | **Category** | **Technologies**                      |
-| --------------- | ------------ | ------------------------------------- |
-| **Web**         | Basics       | HTML, CSS, JavaScript, Typescript     |
-|                 | Frameworks   | React, Tailwind CSS, SCSS             |
-| **API**         | Frameworks   | Next.js, Express.js                   |
-|                 | Databases    | PostgreSQL, Redis                     |
-| **Mobile**      | Frameworks   | ReactNative, Expo                     |
-| **Desktop**     | Frameworks   | Electron.js, ReactNative Windows/Mac  |
-| **Resources**   | Design       | Figma, Adobe Creative Suite           |
+| **Application** | **Stack**                              |
+| --------------- | --------------------------------------|
+| **Web**         | HTML, CSS, JavaScript, Typescript    |
+|                 | React, Tailwind CSS, SCSS            |
+| **API**         | Next.js, Express.js                  |
+|                 | PostgreSQL, Redis                    |
+| **Mobile**      | ReactNative, Expo                    |
+| **Desktop**     | Electron.js, ReactNative Windows/Mac |
+| **Resources**   | Figma, Adobe Creative Suite           |
 
 ## Interests & Future Learning
 
