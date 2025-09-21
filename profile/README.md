@@ -4,28 +4,35 @@
 
 ## About Me
 
-I'm a passionate, self-taught full-stack developer creating scalable web/mobile/desktop applications that solve real-world problems. I believe in continuous learning and embrace challenges with determination.
+I'm a self-taught, passionate full-stack developer dedicated to building scalable web, mobile, and desktop applications that deliver real-world impact. I thrive on solving challenging problems, learning continuously, and creating clean, user-focused solutions.
 
 ## Tech Stack
 
-Leveraging a combination of web development tools, design frameworks, and AI-powered resources, I build robust applications from the ground up. Here's an overview:
+I leverage a mix of modern technologies, frameworks, and design tools to build robust applications from the ground up:
 
-| **Application** | **Stack**                              |
-| --------------- | --------------------------------------|
-| **Web**         | HTML, CSS, JavaScript, Typescript    |
-|                 | React, Tailwind CSS, SCSS            |
-| **API**         | Next.js, Express.js                  |
-|                 | PostgreSQL, Redis                    |
-| **Mobile**      | ReactNative, Expo                    |
-| **Desktop**     | Electron.js, ReactNative Windows/Mac |
-| **Resources**   | Figma, Adobe Creative Suite           |
+| **Domain**        | **Languages & Frameworks**                               | **Databases & Infrastructure**                  | **Tools & Practices**                                    |
+| ----------------- | -------------------------------------------------------- | ----------------------------------------------- | -------------------------------------------------------- |
+| **Web**           | HTML, CSS, JavaScript (ES6+), TypeScript, React, Next.js | –                                               | Tailwind CSS, SCSS, Vite, Responsive/Accessible Design   |
+| **API / Backend** | Node.js, Express.js, RESTful APIs, GraphQL, Prisma ORM   | PostgreSQL, Redis, Supabase                     | Postman, API Documentation, Authentication (JWT/OAuth)   |
+| **Mobile**        | React Native, Expo, Native Modules                       | Async Storage                                   | Push Notifications, Offline-first Design                 |
+| **Desktop**       | Electron.js, React Native (Windows/macOS)                | Cross-platform packaging                        | Auto-updates, App Signing & Deployment                   |
+| **DevOps**        | –                                                        | Docker, Linux Servers, Railway, Vercel, Netlify | GitHub Actions (CI/CD), Monitoring & Logs                |
+| **Testing**       | Jest, React Testing Library, Cypress                     | –                                               | Unit/Integration/E2E Testing                             |
+| **Design**        | –                                                        | –                                               | Figma, Adobe Creative Suite (Photoshop, Illustrator, XD) |
+| **AI & Tools**    | OpenAI API, LangChain                                    | –                                               | Git/GitHub/GitLab, VS Code, ESLint, Prettier             |
 
-## Interests & Future Learning
+## Interests & Ongoing Learning
 
-I'm always exploring new technologies to expand my skill set. Currently, my interests include:
+I’m constantly expanding my knowledge to stay ahead of the curve. Some of my current areas of exploration include:
 
-- **Web3 & Blockchain:** Developing decentralized applications (dApps)
+* **Web3 & Blockchain:** Building decentralized applications (dApps)
+* **AI Integration:** Enhancing applications with intelligent features
+* **Scalability & Performance:** Optimizing systems for reliability
 
-## Let's Connect
+## Let’s Connect
 
-Feel free to browse my projects and reach out if you'd like to collaborate or simply chat about technology!
+I’m always open to collaboration, knowledge sharing, or just a good tech conversation. Check out my projects and feel free to reach out:
+
+* Twitter/X: [@qithaka](https://twitter.com/qithaka)
+* GitHub: [qithaka](https://github.com/qithaka)
+* Portfolio: *Coming soon*
